@@ -36,9 +36,9 @@ Currently exploring full-stack development, machine learning, data-driven applic
 
 An immersive, space-themed developer portfolio that turns project browsing into an interactive journey through a dynamic solar system.
 
-### [Itihasik](https://github.com/AvgNewton03/Itihasik)
+### [DSAvault](https://github.com/AvgNewton03/DSAvault)
 
-An attempt to build an AI-assisted Hindi dictionary application.
+A dedicated repository for Data Structures and Algorithms practice, solutions, and learning resources.
 
 ### [EduLeveling](https://github.com/AvgNewton03/EduLeveling)
 
