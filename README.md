@@ -50,20 +50,18 @@ An online storefront for Jewel Palace, Borivali.
 
 ---
 
+
 ## GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AvgNewton03&show_icons=true&hide_border=true&bg_color=0D1117&title_color=5FAFA6&icon_color=5FAFA6&text_color=C9D1D9" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvgNewton03&layout=compact&hide_border=true&bg_color=0D1117&title_color=5FAFA6&text_color=C9D1D9" height="165" alt="Most-used languages" />
+  <img src="./profile/stats.svg" height="165" alt="GitHub statistics" />
+  <img src="./profile/top-langs.svg" height="165" alt="Most-used programming languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AvgNewton03&hide_border=true&background=0D1117&ring=5FAFA6&fire=5FAFA6&currStreakLabel=5FAFA6&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="70%" alt="GitHub contribution streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvgNewton03&bg_color=0D1117&color=C9D1D9&line=5FAFA6&point=5FAFA6&area=true&hide_border=true" width="100%" alt="GitHub contribution activity" />
-</p>
 
 ---
 
